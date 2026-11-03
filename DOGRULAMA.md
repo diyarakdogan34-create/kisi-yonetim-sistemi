@@ -41,4 +41,4 @@ Yerel ekran görüntüleri: `mobile_app/build/kisi-listesi.png`, `mobile_app/bui
 
 ## GitHub hazırlığı
 
-Kaynaklar, README, sunum notları ve bağımlılık kilit dosyaları hazır. `.gitignore` sanal ortamı, veritabanını, build çıktılarını, önbellekleri, `.env` dosyalarını ve imzalama anahtarlarını dışarıda tutar. Henüz uzak depo oluşturulmadı ve GitHub'a yükleme yapılmadı.
+Herkese açık depo: [diyarakdogan34-create/kisi-yonetim-sistemi](https://github.com/diyarakdogan34-create/kisi-yonetim-sistemi). Kaynaklar, README, sunum notları ve bağımlılık kilit dosyaları sürüm kontrolüne dahildir. `.gitignore` sanal ortamı, veritabanını, build çıktılarını, önbellekleri, `.env` dosyalarını ve imzalama anahtarlarını dışarıda tutar.

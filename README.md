@@ -207,6 +207,6 @@ APK: `mobile_app/build/app/outputs/flutter-apk/app-debug.apk`. Bu APK emülatör
 - Uzak avatar sunucusu internet ister; internetsiz durumda baş harf avatarı normaldir.
 - `SUNUM_NOTLARI.md` içindeki soruları ve sekiz canlı müdahaleyi çalışın.
 
-GitHub yayını bu aşamada yapılmamıştır. `.gitignore` veritabanını, sanal ortamı, yerel ayarları, imzalama anahtarlarını ve derleme çıktılarını dışarıda tutar. APK repoya eklenmez. Depo oluşturma ve yükleme kullanıcıyla birlikte son adımda yapılacaktır.
+GitHub deposu: [diyarakdogan34-create/kisi-yonetim-sistemi](https://github.com/diyarakdogan34-create/kisi-yonetim-sistemi). `.gitignore` veritabanını, sanal ortamı, yerel ayarları, imzalama anahtarlarını ve derleme çıktılarını dışarıda tutar. APK repoya eklenmez; yukarıdaki komutla üretilir.
 
 Teknik kaynaklar: [Flutter kurulum](https://docs.flutter.dev/install/manual), [SQLModel test rehberi](https://sqlmodel.tiangolo.com/tutorial/fastapi/tests/), [FastAPI SQL veritabanı](https://fastapi.tiangolo.com/tutorial/sql-databases/), [url_launcher](https://pub.dev/packages/url_launcher).
