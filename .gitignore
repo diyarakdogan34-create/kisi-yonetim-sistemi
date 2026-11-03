@@ -1,0 +1,28 @@
+# Python ve yerel veriler
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.db
+*.db-*
+*.sqlite*
+.env
+.env.*
+# Flutter / Android
+.dart_tool/
+.flutter-plugins*
+build/
+.gradle/
+local.properties
+key.properties
+*.jks
+*.keystore
+captures/
+# Editör / yerel kayıtlar
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
+Thumbs.db

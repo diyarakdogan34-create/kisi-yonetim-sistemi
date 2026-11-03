@@ -1,0 +1,1 @@
+"""Kişi Yönetim Sistemi API."""
